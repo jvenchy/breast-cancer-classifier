@@ -2,21 +2,10 @@
  * Name:
  * Josh Shergill
  * Period 5
- * Project 0 Breast Cancer Classifier
- * Date last updated: 9/19/2021
  * 
  * BreastCancerClassify contains the core implementation of the 
  * kNearestNeighbors algorithm to classify cell clumps as malignant
  * or benign. 
- * 
- * It is suggested that you work on the methods in the following order:
- * 	1) calculateDistance - once you finish this, you should see a
- * 	   graph of distances appear!
- * 	2) getAllDistances
- * 	3) findKClosestEntries
- * 	4) classify
- *  5) kNearestNeighbors (use your helpers correctly!)
- *  6) getAccuracy
  */
 public class BreastCancerClassify {
 	
